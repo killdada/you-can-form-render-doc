@@ -6,7 +6,6 @@
     "start": "dumi dev",
     "dev": "dumi dev",
     "build": "dumi build",
-    "deploy": "gh-pages -d docs-dist",
     "prettier": "prettier --write \"**/*.{js,jsx,tsx,ts,less,md,json}\""
   },
   "main": "dist/index.js",
