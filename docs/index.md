@@ -7,5 +7,4 @@ hero:
   actions:
     - text: 🥳 快速开始 →
       link: /guide/intro
-footer: Open-source MIT Licensed | Copyright © 2021<br />Powered by mz
 ---
